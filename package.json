@@ -1,0 +1,13 @@
+{
+    "name": "elementary_wallpapers",
+    "version": "0.1.0",
+
+    "description": "Server-side code to sync wallpapers across desktop/mobile",
+    "author": "Bilal Akhtar <me@itsbilal.com>",
+    "license": "MIT",
+
+    "dependencies": {
+        "express":  "3.*",
+        "mongodb":  "1.3.*"
+    }
+}
